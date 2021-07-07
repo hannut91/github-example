@@ -1,0 +1,23 @@
+{
+  "name": "github-example",
+  "version": "1.0.0",
+  "description": "깃헙으로 개발하기",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannut91/github-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannut91/github-example/issues"
+  },
+  "homepage": "https://github.com/hannut91/github-example#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
